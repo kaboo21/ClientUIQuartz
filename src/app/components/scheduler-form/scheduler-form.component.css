@@ -1,0 +1,13 @@
+.form-container
+{
+  margin: 2rem;
+  max-width: 50rem;
+}
+
+.form-container .btn{
+  margin: 2rem;
+}
+
+.checkbox {
+  margin-top: 0.5rem;
+}
