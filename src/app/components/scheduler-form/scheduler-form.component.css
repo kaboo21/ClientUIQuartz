@@ -1,10 +1,10 @@
-.form-container
+.form-group
 {
   margin: 2rem;
   max-width: 50rem;
 }
 
-.form-container .btn{
+.form-group .btn{
   margin: 2rem;
 }
 
